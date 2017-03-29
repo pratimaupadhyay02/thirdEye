@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/raj/Downloads/Granular.ai/fb-messenger-bot/car_detection-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "/home/raj/Downloads/Granular.ai/fb-messenger-bot/car_detection-0.001-2conv-basic.model"
